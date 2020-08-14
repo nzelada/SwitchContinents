@@ -1,5 +1,5 @@
 public class Continents {
-  /*The largest city in that certain continet*/
+  /*The largest city in that certain continent*/
 int continent;
   public Continents(int areas){
   continent = areas;
